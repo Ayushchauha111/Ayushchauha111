@@ -1,7 +1,10 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World!, I'm Ayush, a Backend Developer 👋🏼:
+🛜 Currently working with Allen Digital as a Senior Software Engineer
+👨🏼‍💻 Previously worked at Rakuten and Cashfree Payments
+👨🏼‍🎓 Studied Computer Science at Institute of Engineering and Technology
+🎬 Just started my YouTube channel Ayush Kumar
 
 
 # 💻 Tech Stack:
