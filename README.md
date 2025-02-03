@@ -33,8 +33,6 @@ Here's your tech stack with 3 items in one row:
 
 --- 
 
-This should keep your tech stack organized in 3 items per row!
-
 
 ## 🏆 GitHub Trophies  
 <p align="center">
