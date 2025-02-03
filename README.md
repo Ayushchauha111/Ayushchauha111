@@ -6,7 +6,7 @@
 💡 Passionate about building scalable systems and optimizing backend performance.  
 💼 Currently at **Allen Digital** | Previously at **Rakuten & Cashfree Payments**  
 🎓 **Computer Science Graduate** | **Institute of Engineering and Technology**  
-📺 **[YouTube: Ayush Kumar](https://www.youtube.com/)** | Sharing tech insights & coding tutorials  
+📺 **[YouTube: Ayush Kumar](https://www.youtube.com/@TheCodeCast)** | Sharing tech insights & coding tutorials  
 
 ---
 
@@ -65,8 +65,8 @@
 ---
 
 ## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushgithub)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushchauha111)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheCodeCast)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushchauha111)  
 
 ---
