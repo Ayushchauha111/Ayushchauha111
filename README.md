@@ -8,7 +8,6 @@
 🎓 **Computer Science Graduate** | **Institute of Engineering and Technology**  
 📺 **[YouTube: Ayush Kumar](https://www.youtube.com/@TheCodeCast)** | Sharing tech insights & coding tutorials  
 
-Here's your tech stack with 3 items in one row:
 
 ---
 
